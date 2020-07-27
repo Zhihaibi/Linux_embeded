@@ -10,7 +10,7 @@
 2. File operation and uart communication.
 3. TCP/IP communication between the board and ubuntu.
 4. Small game made by Qt creator.
-5. An electronic camera in board.
+5. An electronic photo album in board.
 
 
 
