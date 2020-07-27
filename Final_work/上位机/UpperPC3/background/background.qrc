@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>login1.jpg</file>
+        <file>config.jpg</file>
+        <file>bk2.jpg</file>
+        <file>his.jpg</file>
+        <file>mon.jpg</file>
+        <file>Mon.jpg</file>
+        <file>His.jpg</file>
+        <file>config2.jpg</file>
+        <file>connect.jpg</file>
+        <file>back.jpg</file>
+    </qresource>
+</RCC>
