@@ -20,7 +20,7 @@
 
 - Including the upper and lower system,  all the interface made by Qt creator.
 - Data collection.
-- Data communication.
+- Data communication
 - Local monitoring sys.
 - mainframe monitor sys.
 
